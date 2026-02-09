@@ -4,6 +4,5 @@
 </p>
 
 <p>
-![Demo Screenshot](Demo.png)   // 文件叫 demo.png
-</a>
+1
 </p>

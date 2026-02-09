@@ -4,7 +4,6 @@
 </p>
 
 <p>
-📘 <a href="https://nolak36.github.io/test-nat/" target="_blank">
-点击查看完整网页介绍
+![Demo Screenshot](Demo.png)   // 文件叫 demo.png
 </a>
 </p>
